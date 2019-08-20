@@ -1,2 +1,2 @@
 Belajar Github di Github!!!
-Belajar github untuk edit file!!
+hapus commit ke dua
